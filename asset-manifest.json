@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bestroast-restaurant-app/static/css/main.b336d08c.css",
+    "main.js": "/bestroast-restaurant-app/static/js/main.fbeb5527.js",
+    "static/media/welcome.png": "/bestroast-restaurant-app/static/media/welcome.723e52d36732126fa795.png",
+    "static/media/ambience.jpg": "/bestroast-restaurant-app/static/media/ambience.8b318e0aa2b30e0a977d.jpg",
+    "static/media/Food1.jpg": "/bestroast-restaurant-app/static/media/Food1.f3072f11102878ef9b75.jpg",
+    "static/media/Food3.jpeg": "/bestroast-restaurant-app/static/media/Food3.ff580b3a448c8f377afa.jpeg",
+    "static/media/Food2.jpg": "/bestroast-restaurant-app/static/media/Food2.5e76d1030d726ab5f598.jpg",
+    "static/media/logos.png": "/bestroast-restaurant-app/static/media/logos.1316ef50d84b10ee5041.png",
+    "static/media/DeliveryImg.png": "/bestroast-restaurant-app/static/media/DeliveryImg.0fbebbdbfc53d67bdd8f.png",
+    "index.html": "/bestroast-restaurant-app/index.html",
+    "main.b336d08c.css.map": "/bestroast-restaurant-app/static/css/main.b336d08c.css.map",
+    "main.fbeb5527.js.map": "/bestroast-restaurant-app/static/js/main.fbeb5527.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b336d08c.css",
+    "static/js/main.fbeb5527.js"
+  ]
+}
